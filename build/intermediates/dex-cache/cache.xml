@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/avoscloud-v2.6.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51ac785b56bf3fe221d976e63b5e39ed3731bb2a">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/avoscloud-v2.6.9.1-972e012fa5b1ea71f916bcb603d95f2c8c2b7459.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2ffbdfed2db54c9b5cd508f86fa8dc1692f329cb.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/avossearch-v2.6.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1db5ee9e5a1f5a1c16a52dda061f33c8966de09a">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/avossearch-v2.6.9.1-843f6c457148290d0235b846b0a6e0a085d91862.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/httpmime-4.2.4-ccaafb915f04ac7544b4e60073b8c01adb126f3e.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/avospush-v2.6.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bd308075cce1d7d9d59b7739fd32766e11d30af">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/avospush-v2.6.9.1-8f1f75fdc784c437b9ecc597154fb9162ecdf7cb.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/fastjson.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/fastjson-c9854df89c473b974892c6810117ef407e0ed0cc.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/avosstatistics-v2.6.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d91909b2b9101320b53cf84587f89aa9a0f10a21">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/avosstatistics-v2.6.9.1-6c919c4b591b13914d6413df995d50b893650ae8.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-63fb980e601a0e67fd4e9f830a6fda0a7c71d655.jar" />
+    </item>
+
+</items>
