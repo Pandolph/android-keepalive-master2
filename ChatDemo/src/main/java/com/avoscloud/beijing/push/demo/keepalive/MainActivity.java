@@ -102,6 +102,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     Session session = SessionManager.getInstance(selfId);
     session.setSignatureFactory(new KeepAliveSignatureFactory(AVOSCloud.applicationId, selfId));
     session.open(selfId, peerIds);
+
   }
 
   public void toastExeption(AVException e) {

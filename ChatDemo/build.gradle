@@ -24,12 +24,13 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
-    compile files('libs/android-async-http-1.4.6.jar')
+    compile files('libs/avoscloud-statistics-v3.1.5.jar')
     compile files('libs/avoscloud-v2.6.9.1.jar')
     compile files('libs/avospush-v2.6.9.1.jar')
     compile files('libs/avossearch-v2.6.9.1.jar')
-    compile files('libs/avosstatistics-v2.6.9.1.jar')
-    compile files('libs/fastjson.jar')
-    compile files('libs/httpmime-4.2.4.jar')
+    compile files('libs/Java-WebSocket-1.2.0-leancloud.jar')
+    compile files('libs/qq.sdk.1.6.1.jar')
+    compile files('libs/weibo.sdk.android.sso.3.0.1-leancloud.jar')
+    compile 'com.android.support:support-v4:22.0.0'
+    compile 'com.android.support:appcompat-v7:22.0.0'
 }

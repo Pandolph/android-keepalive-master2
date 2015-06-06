@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/sign_up_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="邮箱"/>
+    <EditText
+        android:id="@+id/sign_up_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="密码"
+        android:inputType="textPassword"/>
+    <EditText
+        android:id="@+id/sign_up_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="姓名"/>
+    <RadioGroup
+        android:id="@+id/sign_up_sex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/sign_up_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="男"/>
+        <RadioButton
+            android:id="@+id/sign_up_female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="女"/>
+    </RadioGroup>
+    <Button
+        android:id="@+id/sign_up_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" 注册"/>
+
+    <DatePicker
+        android:id="@+id/sign_up_birthday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </DatePicker>
+
+
+
+</LinearLayout><!-- From: file:/Users/linpan1/Desktop/android-keepalive-master2/ChatDemo/src/main/res/layout/signup.xml -->
